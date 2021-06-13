@@ -8,7 +8,7 @@ export class Header extends Component {
                         <div className="site-header__logo-box float-left hidden-sm-down">
                             <div className="site-header__logo">
                                 <a href="/">
-                                    <img src="assets/images/resources/logo.png" alt />
+                                    <img src="assets/images/resources/logo.png" alt="" />
                                 </a>
                             </div>
                         </div>
@@ -88,7 +88,7 @@ export class Header extends Component {
                                     <div className="site-header__logo-box float-left hidden-sm-up">
                                         <div className="site-header__logo">
                                             <a href="index.html">
-                                                <img src="assets/images/resources/logo.png" alt />
+                                                <img src="assets/images/resources/logo.png" alt="" />
                                             </a>
                                         </div>
                                     </div>
